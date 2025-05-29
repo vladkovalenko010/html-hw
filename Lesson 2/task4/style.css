@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    background-color: peachpuff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 240px;
+}
+
+.rubik{
+    font-family: "Rubik Pixels", sans-serif;
+}
+
+.sedgwick{
+    font-family: "Sedgwick Ave Display", serif;";
+}
+
+.dancing{
+    font-family: "Dancing Script", serif;
+}
+
+.fjalla{
+    font-family: "Fjalla One", sans-serif;
+}
+
+.indie{
+    font-family: "Indie Flower", serif;
+}

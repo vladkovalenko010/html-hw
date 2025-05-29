@@ -1,0 +1,23 @@
+body{
+    background-color: #607860;
+    margin-top: 0;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.month{
+    background-color: #d6ecd7;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    transition: 0.2s;
+    width: 200px;
+}
+
+.month:hover{
+    scale: 1.1;
+    transition: 0.2s;
+}
